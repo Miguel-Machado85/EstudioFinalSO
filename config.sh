@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e  # para detenerse si hay errores
 
-cd /home/ubuntu/estudioFinalSO
+cd /home/ubuntu/EstudioFinalSO
 
 python3 -m venv venv
 source venv/bin/activate
